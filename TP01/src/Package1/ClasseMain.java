@@ -59,6 +59,8 @@ public class ClasseMain {
 		im21=new JMenuItem("Item menu2 1");
 		im22=new JMenuItem("Item menu2 2");
 		
+		int x = 1;
+		
 		menu1.add(i1); menu1.add(i2); menu1.add(i3);
 		submenu.add(i4); submenu.add(i5);
 		
